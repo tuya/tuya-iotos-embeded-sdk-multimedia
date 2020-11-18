@@ -12,12 +12,13 @@ mainline version is the newest SDK, APIs are all tested by Tuya.<br>
 stable version is verified on specific hardware platform by Tuya.<br>
 longterm version is verified on several platforms by Tuya and developers.
 
-* mainline:&emsp;**[4.8.6](./dowload_list_4.8.16.md)**
-* stable:&emsp;&emsp;**[4.8.4](./dowload_list_4.8.4.md)**
-* longterm:&emsp;**[4.7.14](./dowload_list_4.7.14.md)**
+* mainline:&emsp;**[4.8.6](./dowload_list_linux_4.8.6.md)**
+* stable:&emsp;&emsp;**[4.8.4](./dowload_list_linux_4.8.4.md)**
+* longterm:&emsp;**[4.7.14](./dowload_list_linux_4.7.14.md)**
+* version info:&emsp;**[releaseNote](./release_note.md)**
 
 ### SDK for FreeRTOS
-* mainline:&emsp;**[4.8.6](./dowload_list_4.8.16.md)**
+* mainline:&emsp;**[4.8.6](./dowload_list_4.8.6.md)**
 
 ### SDK for LiteOS
 * longterm (for liteos-1.4.6):&emsp;**[4.7.14](https://github.com/TuyaInc/TUYA_IPC_SDK/tree/master/Stable/liteos-1.4.6)**
