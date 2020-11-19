@@ -31,17 +31,13 @@ longterm version is verified on several platforms by Tuya and developers.
 
 ## Get Started
 
-### Create product on Tuya IoT platform
+* **[Create product on Tuya IoT platform](https://developer.tuya.com/en/docs/iot/configure-in-platform/create-product/create-product?id=K914jp1ijtsfe)** <br>
+**Note:** select \<Video Surveillance\> category, \<Smart Camera\> product, and choose \<Custom Solution\> as plan. Get PID info.([What's this?](https://github.com/tuya/tuya-iotos-embeded-sdk-multimedia/wiki/What-is#what-is-pid))
 
-### Run a demo on Ubuntu
+* Get 10 free licenses include UUID&AUTHKEY.([What's this?](https://github.com/tuya/tuya-iotos-embeded-sdk-multimedia/wiki/What-is#what-is-uuid--authkey))
 
-#### Clone demo
+* Clone demo codes on https://github.com/tuya/tuya-iotos-embeded-multimedia-demo, and follow [Quick Start](https://github.com/tuya/tuya-iotos-embeded-multimedia-demo#get-started)
 
-#### Download SDK
-
-#### Build bin
-
-#### Prepare demo resources and run
 
 ## Support
 
