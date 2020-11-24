@@ -43,6 +43,7 @@
 * [mips-linux-uclibc-4.7.2_64Bit](https://images.tuyaus.com/rms-static/f6e80810-2d2a-11eb-ba81-c529c7b65b3d-1606094811921.tar.gz?tyName=tuya_ipc_sdk_4.8.6_mips-linux-uclibc-4.7.2_64Bit.tar.gz)
 * [mips-gcc472-glibc216-32bit-r2.3.3 for T30A/T31](https://images.tuyaus.com/rms-static/f8747470-2d2a-11eb-ba81-c529c7b65b3d-1606094814519.tar.gz?tyName=tuya_ipc_sdk_4.8.6_mips-gcc472-glibc216-32bit-r2.3.3.tar.gz)
 * [mips-gcc472-uclibc216-32bit-r2.3.3](https://images.tuyaus.com/rms-static/f6bc3d20-2d2a-11eb-ba81-c529c7b65b3d-1606094811634.tar.gz?tyName=tuya_ipc_sdk_4.8.6_mips-gcc472-uclibc216-32bit-r2.3.3.tar.gz)
+* [mips-gcc472-glibc216-64bit-r2.3.3](https://images.tuyaus.com/rms-static/f882cc50-2d2a-11eb-b21a-654422c1b54b-1606094814613.tar.gz?tyName=tuya_ipc_sdk_4.8.6_mips-gcc472-glibc216-64bit-r2.3.3.tar.gz)
 * [mips-gcc540-glibc222-64bit-r3.3.0](https://images.tuyaus.com/rms-static/f6ba6860-2d2a-11eb-b21a-654422c1b54b-1606094811622.tar.gz?tyName=tuya_ipc_sdk_4.8.6_mips-gcc540-glibc222-64bit-r3.3.0.tar.gz)
 * [mips-gcc540-uclibc-64bit-r3.3.0](https://images.tuyaus.com/rms-static/f6c9f8c0-2d2a-11eb-b21a-654422c1b54b-1606094811724.tar.gz?tyName=tuya_ipc_sdk_4.8.6_mips-gcc540-uclibc-64bit-r3.3.0.tar.gz)
 
