@@ -1,6 +1,6 @@
 [English](./release_note.md) | 简体中文
 
-## release note for **[4.8.6](./dowload_list_4.8.6.md)** 20201118:
+## release note for **[4.8.6](./dowload_list_linux_4.8.6.md)** 20201118:
 ### [新功能&优化]
 - 修改移动侦测允许的最小上报间隔到60秒
 - 修改美东区和西欧区的默认请求域名
@@ -19,7 +19,7 @@
 - 新增自定义外部dns解析接口
 - 新增休眠模式下流媒体暂停和恢复接口
 
-## release note for **[4.8.4](./dowload_list_4.8.4.md)** 20200722:
+## release note for **[4.8.4](./dowload_list_linux_4.8.4.md)** 20200722:
 ### [新功能]
 - 新增AP模式支持
 - 新增P2P局域网预览支持
@@ -27,7 +27,7 @@
 - 新增音视频留言消息支持
 - 新增Wifi迁移功能
 
-## release note for **[4.7.14](./dowload_list_4.7.14.md)** 20200720:
+## release note for **[4.7.14](./dowload_list_linux_4.7.14.md)** 20200720:
 ### [优化]
 - 修复多路webrtc出现马赛克问题
 - 修复本地存储设置预录时间在不插卡的情况下不生效的问题

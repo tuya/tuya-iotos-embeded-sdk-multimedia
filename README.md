@@ -12,22 +12,24 @@ mainline version is the newest SDK, APIs are all tested by Tuya.<br>
 stable version is verified on specific hardware platform by Tuya.<br>
 longterm version is verified on several platforms by Tuya and developers.
 
-* mainline:&emsp;**[4.8.6](./dowload_list_linux_4.8.6.md)**
-* stable:&emsp;&emsp;**[4.8.4](./dowload_list_linux_4.8.4.md)**
-* longterm:&emsp;**[4.7.14](./dowload_list_linux_4.7.14.md)**
-* version info:&emsp;**[releaseNote](./release_note.md)**
+* mainline:&emsp;**[4.8.6](./Linux/dowload_list_linux_4.8.6.md)**
+* stable:&emsp;&emsp;**[4.8.4](./Linux/dowload_list_linux_4.8.4.md)**
+* longterm:&emsp;**[4.7.14](./Linux/dowload_list_linux_4.7.14.md)**
+* version info:&emsp;**[releaseNote](./Linux/release_note.md)**
 
 ### SDK for FreeRTOS
-* mainline:&emsp;**[4.8.6](./dowload_list_4.8.6.md)**
+* mainline:&emsp;**[4.8.6](./RTOS/dowload_list_4.8.6.md)**
 
 ### SDK for LiteOS
-* longterm (for liteos-1.4.6):&emsp;**[4.7.14](https://github.com/TuyaInc/TUYA_IPC_SDK/tree/master/Stable/liteos-1.4.6)**
-* longterm (for liteos-3.2.3):&emsp;**[4.7.14](https://github.com/TuyaInc/TUYA_IPC_SDK/tree/master/Stable/liteos-3.2.3)**
+* mainline (for liteos):&emsp;**[4.8.6](./LiteOS/dowload_list_liteos_4.8.6.md)**
+* longterm (for liteos):&emsp;**[4.7.14](./LiteOS/dowload_list_liteos_4.7.14.md)**
+* version info:&emsp;**[releaseNote](./LiteOS/release_note.md)**
+
 ### SDK for Base-station&Camera Suit
-* mainline:&emsp;**[1.0.4](./download_list_kit.md)**
+* mainline:&emsp;**[1.0.4](./Base-station&Camera-Suit/download_list_kit.md)**
 
 ### SDK for production test
-* longterm:&emsp;**[1.1.0](./dowload_list_4.7.14.md)**
+* longterm:&emsp;**[1.1.0](./fac/dowload_list_fac_1.1.0.md)**
 
 ## Get Started
 

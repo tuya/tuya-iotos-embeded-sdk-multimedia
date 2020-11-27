@@ -1,6 +1,6 @@
 English | [简体中文](./release_note_zh-CN.md)
 
-## release note for **[4.8.6](./dowload_list_4.8.6.md)** 20201118:
+## release note for **[4.8.6](./dowload_list_linux_4.8.6.md)** 20201118:
 ### [new feature&optimization version]
 - Minimal interval of motion detection notification changes to 60sec
 - Use hmac to check OTA file for higher security
@@ -18,14 +18,14 @@ English | [简体中文](./release_note_zh-CN.md)
 - Fix bug: MQTT service may fail in certain weak network
 - Fix bug: two devices may appear when pairing in auto find mode for wired camera
 
-## release note for **[4.8.4](./dowload_list_4.8.4.md)** 20200722:
+## release note for **[4.8.4](./dowload_list_linux_4.8.4.md)** 20200722:
 ### [new feature version]
 - Support preview on AP mode(LAN only)
 - Support new pairing method: scan QR on device with network
 - Support video message
 - Support WiFi migration
 
-## release note for **[4.7.14](./dowload_list_4.7.14.md)** 20200720:
+## release note for **[4.7.14](./dowload_list_linux_4.7.14.md)** 20200720:
 ### [optimization version]
 - fix bug: mosaic appears when multi-channel preivew via webrtc
 - fix bug: pre-record fail when no SD cards inserted

@@ -13,21 +13,22 @@ stable指代已经经过涂鸦内部特定硬件平台产品级别测试后发�
 longterm指代已经经过多个涂鸦客户硬件平台产品级别验证的版本。
 
 ### 标准Linux版本
-* mainline:&emsp;**[4.8.6](./dowload_list_linux_4.8.6.md)**
-* stable:&emsp;&emsp;**[4.8.4](./dowload_list_linux_4.8.4.md)**
-* longterm:&emsp;**[4.7.14](./dowload_list_linux_4.7.14.md)**
-* version info:&emsp;**[releaseNote](./release_note_zh-CN.md)**
+* mainline:&emsp;**[4.8.6](./Linux/dowload_list_linux_4.8.6.md)**
+* stable:&emsp;&emsp;**[4.8.4](./Linux/dowload_list_linux_4.8.4.md)**
+* longterm:&emsp;**[4.7.14](./Linux/dowload_list_linux_4.7.14.md)**
+* version info:&emsp;**[releaseNote](./Linux/release_note_zh-CN.md)**
 ### RTOS系统版本
 
 ### LiteOS系统版
-* longterm (for liteos-1.4.6):&emsp;**[4.7.14](https://github.com/TuyaInc/TUYA_IPC_SDK/tree/master/Stable/liteos-1.4.6)**
-* longterm (for liteos-3.2.3):&emsp;**[4.7.14](https://github.com/TuyaInc/TUYA_IPC_SDK/tree/master/Stable/liteos-3.2.3)**
+* mainline (for liteos):&emsp;**[4.8.6](./LiteOS/dowload_list_liteos_4.8.6.md)**
+* longterm (for liteos):&emsp;**[4.7.14](./LiteOS/dowload_list_liteos_4.7.14.md)**
+* version info:&emsp;**[releaseNote](./LiteOS/release_note_zh-CN.md)**
 
 ### 基站-相机套装版本
-* mainline:&emsp;**[1.0.0]()**
+* mainline:&emsp;**[1.0.4](./Base-station&Camera-Suit/download_list_kit.md)**
 
 ### 产测专用
-* longterm:&emsp;**[1.1.0](./dowload_list_fac_1.1.0.md)**
+* longterm:&emsp;**[1.1.0](./fac/dowload_list_fac_1.1.0.md)**
 
 ## 快速上手
 
