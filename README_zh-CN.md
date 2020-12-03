@@ -20,7 +20,7 @@ longterm指代已经经过多个涂鸦客户硬件平台产品级别验证的版
 ### RTOS系统版本
 
 ### LiteOS系统版
-* mainline (for liteos):&emsp;**[4.8.6](./LiteOS/dowload_list_liteos_4.8.6.md)**
+* mainline (for liteos):&emsp;**[4.8.8](./LiteOS/dowload_list_liteos_4.8.8.md)**
 * longterm (for liteos):&emsp;**[4.7.14](./LiteOS/dowload_list_liteos_4.7.14.md)**
 * version info:&emsp;**[releaseNote](./LiteOS/release_note_zh-CN.md)**
 

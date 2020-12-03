@@ -21,7 +21,7 @@ longterm version is verified on several platforms by Tuya and developers.
 * mainline:&emsp;**[4.8.6](./RTOS/dowload_list_4.8.6.md)**
 
 ### SDK for LiteOS
-* mainline (for liteos):&emsp;**[4.8.6](./LiteOS/dowload_list_liteos_4.8.6.md)**
+* mainline (for liteos):&emsp;**[4.8.8](./LiteOS/dowload_list_liteos_4.8.8.md)**
 * longterm (for liteos):&emsp;**[4.7.14](./LiteOS/dowload_list_liteos_4.7.14.md)**
 * version info:&emsp;**[releaseNote](./LiteOS/release_note.md)**
 
