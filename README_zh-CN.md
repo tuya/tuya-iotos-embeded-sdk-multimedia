@@ -27,6 +27,9 @@ longterm指代已经经过多个涂鸦客户硬件平台产品级别验证的版
 ### 基站-相机套装版本
 * mainline:&emsp;**[1.0.4](./Base-station&Camera-Suit/download_list_kit.md)**
 
+### 行车记录仪版本
+* mainline:&emsp;**[5.0.4](./Car-DV/download_list_5.0.4.md)**
+
 ### 产测专用
 * longterm:&emsp;**[1.1.0](./fac/dowload_list_fac_1.1.0.md)**
 

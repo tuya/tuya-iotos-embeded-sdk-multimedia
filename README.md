@@ -28,6 +28,9 @@ longterm version is verified on several platforms by Tuya and developers.
 ### SDK for Base-station&Camera Suit
 * mainline:&emsp;**[1.0.4](./Base-station&Camera-Suit/download_list_kit.md)**
 
+### SDK for car DV
+* mainline:&emsp;**[5.0.4](./Car-DV/download_list_5.0.4.md)**
+
 ### SDK for production test
 * longterm:&emsp;**[1.1.0](./fac/dowload_list_fac_1.1.0.md)**
 
