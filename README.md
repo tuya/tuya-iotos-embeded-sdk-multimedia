@@ -7,7 +7,7 @@ Multimedia SDK is part of Tuya IoTOS, for developing embeded device such as IP C
 
 ## Download
 
-### SDK for standard linux 
+### SDK for IPC(standard Linux)
 mainline version is the newest SDK, APIs are all tested by Tuya.<br>
 stable version is verified on specific hardware platform by Tuya.<br>
 longterm version is verified on several platforms by Tuya and developers.
@@ -17,10 +17,10 @@ longterm version is verified on several platforms by Tuya and developers.
 * longterm:&emsp;**[4.7.14](./Linux/dowload_list_linux_4.7.14.md)**
 * version info:&emsp;**[releaseNote](./Linux/release_note.md)**
 
-### SDK for FreeRTOS
+### SDK for IPC(FreeRTOS)
 * mainline:&emsp;**[4.8.6](./RTOS/dowload_list_4.8.6.md)**
 
-### SDK for LiteOS
+### SDK for IPC(LiteOS)
 * mainline (for liteos):&emsp;**[4.8.8](./LiteOS/dowload_list_liteos_4.8.8.md)**
 * longterm (for liteos):&emsp;**[4.7.14](./LiteOS/dowload_list_liteos_4.7.14.md)**
 * version info:&emsp;**[releaseNote](./LiteOS/release_note.md)**
