@@ -1,5 +1,11 @@
 English | [简体中文](./release_note_zh-CN.md)
 
+## release note for **[4.8.8](./dowload_list_linux_4.8.8.md)** 20210109:
+### [optimization version]
+- Optimize the logic of minimal interval of motion detection notification(60 sec)
+- Support termination of 3rd streaming when set to secret mode
+- Fix bug: the crash of streamer module because of unalign 
+
 ## release note for **[4.8.6](./dowload_list_linux_4.8.6.md)** 20201118:
 ### [new feature&optimization version]
 - Minimal interval of motion detection notification changes to 60sec

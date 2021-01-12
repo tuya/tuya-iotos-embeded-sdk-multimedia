@@ -1,4 +1,9 @@
 [English](./release_note.md) | 简体中文
+## release note for **[4.8.8](./dowload_list_linux_4.8.8.md)** 20210109:
+### [优化]
+- 完善移动侦测上报最小间隔60秒的逻辑
+- 原隐私模式的设置接口新增停止第三方拉流功能
+- 修复推流网关在某些平台因字节不对其引起的崩溃问题
 
 ## release note for **[4.8.6](./dowload_list_linux_4.8.6.md)** 20201118:
 ### [新功能&优化]
