@@ -12,8 +12,8 @@ The mainline version is the newest SDK. APIs are all tested by Tuya.<br>
 The stable version is verified on a specific hardware platform by Tuya.<br>
 The long-term version is verified on several platforms by Tuya and developers.
 
-* Minline:&emsp;**[4.8.8](./Linux/dowload_list_linux_4.8.8.md)**
-* Stable:&emsp;&emsp;**[4.8.4](./Linux/dowload_list_linux_4.8.4.md)**
+* Mainline:&emsp;**[4.8.8](./Linux/dowload_list_linux_4.8.8.md)**
+* Stable:&emsp;&emsp;**[4.8.6](./Linux/dowload_list_linux_4.8.6.md)**
 * Long-term:&emsp;**[4.7.14](./Linux/dowload_list_linux_4.7.14.md)**
 * Version information:&emsp;**[Release Note](./Linux/release_note.md)**
 
