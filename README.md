@@ -35,6 +35,9 @@ The long-term version is verified on several platforms by Tuya and developers.
 ### SDK for car DV
 * Mainline:&emsp;**[5.0.4](./Car-DV/download_list_5.0.4.md)**
 
+### SDK for Door Lock
+* Mainline:&emsp;**[1.0.0](./Door-Lock/doorlock_sdk_release.md)**
+
 ### SDK for production tests
 * Long-term:&emsp;**[1.1.0](./fac/dowload_list_fac_1.1.0.md)**
 
