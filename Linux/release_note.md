@@ -1,6 +1,13 @@
 English | [简体中文](./release_note_zh-CN.md)
 
-## release note for **[4.9.4](./dowload_list_linux_mainline.md)** 20210610:
+## release note for **[4.9.6](./dowload_list_linux_mainline.md)** 20210721:
+### [new feature&optimization version]
+- Fix MQTT offline caused by cloud storage processed too long
+- Modify the acquisition of multiple certificates and fix the problem of abnormal cloud storage loss
+- Fixed failure to get low power address
+
+
+## release note for **[4.9.4](./dowload_list_linux_4.9.4.md)** 20210610:
 ### [new feature&optimization version]
 - Support H265+ intelligent encoding
 - Add new API for low power of TCP mode

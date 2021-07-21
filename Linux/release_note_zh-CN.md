@@ -1,5 +1,12 @@
 [English](./release_note.md) | 简体中文
-## release note for **[4.9.4](./dowload_list_linux_mainline.md)** 20210610:
+## release note for **[4.9.6](./dowload_list_linux_mainline.md)** 20210721:
+### [新功能&优化]
+- 修复云存储处理时间过长导致MQTT上下线
+- 修改多证书获取，修复云存储不同套餐异常丢云存问题
+- 修复获取低功耗地址失败问题
+
+
+## release note for **[4.9.4](./dowload_list_linux_4.8.8.md)** 20210610:
 ### [新功能&优化]
 - 新增H265+智能编码支持
 - 新增TCP模式低功耗保活相关接口
