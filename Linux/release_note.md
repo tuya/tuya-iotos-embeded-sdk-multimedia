@@ -42,7 +42,7 @@ English | [简体中文](./release_note_zh-CN.md)
 - Fix bug: MQTT service may fail in certain weak network
 - Fix bug: two devices may appear when pairing in auto find mode for wired camera
 
-## release note for **[4.8.4](./dowload_list_linux_4.8.4.md)** 20200722:
+## release note for 4.8.4 20200722:
 ### [new feature version]
 - Support preview on AP mode(LAN only)
 - Support new pairing method: scan QR on device with network

@@ -12,7 +12,7 @@ The mainline version is the newest SDK. APIs are all tested by Tuya.<br>
 The stable version is verified on a specific hardware platform by Tuya.<br>
 The long-term version is verified on several platforms by Tuya and developers.
 
-* Mainline:&emsp;**[4.9.4](./Linux/dowload_list_linux_mainline.md)**
+* Mainline:&emsp;**[4.9.6](./Linux/dowload_list_linux_mainline.md)**
 * Stable:&emsp;&emsp;**[4.8.8](./Linux/dowload_list_linux_4.8.8.md)**
 * Long-term:&emsp;**[4.7.14](./Linux/dowload_list_linux_4.7.14.md)**
 * Version information:&emsp;**[Release Note](./Linux/release_note.md)**
@@ -21,7 +21,7 @@ The long-term version is verified on several platforms by Tuya and developers.
 * Mainline:&emsp;**[1.0.1](./RTOS/dowload_list_rtos.md)**
 
 ### SDK for IPCs (LiteOS)
-* Mainline (for LiteOS):&emsp;**[4.9.4](./LiteOS/dowload_list_liteos_mainline.md)**
+* Mainline (for LiteOS):&emsp;**[4.9.6](./LiteOS/dowload_list_liteos_mainline.md)**
 * Long-term (for LiteOS):&emsp;**[4.8.8](./LiteOS/dowload_list_liteos_4.8.8.md)**
 * Version information:&emsp;**[Release Note](./LiteOS/release_note.md)**
 
