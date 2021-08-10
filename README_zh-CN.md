@@ -13,14 +13,15 @@ stable指代已经经过涂鸦内部特定硬件平台产品级别测试后发�
 longterm指代已经经过多个涂鸦客户硬件平台产品级别验证的版本。
 
 ### 标准Linux版本
-* mainline:&emsp;**[4.9.6](./Linux/dowload_list_linux_mainline.md)**
 * stable:&emsp;&emsp;**[4.8.8](./Linux/dowload_list_linux_4.8.8.md)**
 * longterm:&emsp;**[4.7.14](./Linux/dowload_list_linux_4.7.14.md)**
 * version info:&emsp;**[releaseNote](./Linux/release_note_zh-CN.md)**
+
 ### RTOS系统版本
+* Mainline:&emsp;**[1.0.1](./RTOS/dowload_list_rtos.md)**
+* 客户接入规范:&emsp;**[自测资料](./RTOS/Tuya_IPC_RTOS_System_Check.rar)**
 
 ### LiteOS系统版
-* mainline (for liteos):&emsp;**[4.9.6](./LiteOS/dowload_list_liteos_mainline.md)**
 * longterm (for liteos):&emsp;**[4.8.8](./LiteOS/dowload_list_liteos_4.8.8.md)**
 * version info:&emsp;**[releaseNote](./LiteOS/release_note_zh-CN.md)**
 
@@ -32,7 +33,7 @@ longterm指代已经经过多个涂鸦客户硬件平台产品级别验证的版
 * stable:&emsp;**[1.4.6](./XVR/download_list_1.4.6.md)**
 
 ### 行车记录仪版本
-* mainline:&emsp;**[5.0.4](./Car-DV/download_list_5.0.4.md)**
+
 
 ### 门锁版本
 * mainline:&emsp;**[1.0.0](./Door-Lock/doorlock_sdk_release.md)**
