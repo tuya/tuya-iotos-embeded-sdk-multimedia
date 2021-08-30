@@ -6,12 +6,12 @@ English | [简体中文](./README_zh-CN.md)
 Multimedia SDK is part of Tuya IoTOS and used to develop embedded devices, such as IP cameras (IPCs), network video recorders (NVRs), digital video recorders (DVRs), doorbells, and floodlights. The C standard library, related header files, and documents are included to support Linux, LiteOS, and real-time operating systems (RTOSs).
 
 ## Download
-
-### SDK for IPCs (standard Linux)
 The mainline version is the newest SDK. APIs are all tested by Tuya.<br>
 The stable version is verified on a specific hardware platform by Tuya.<br>
 The long-term version is verified on several platforms by Tuya and developers.
 
+### SDK for IPCs (standard Linux)
+* Mainline:&emsp;&emsp;**[5.2.16](./Linux/dowload_list_linux_5.2.16.md)**
 * Stable:&emsp;&emsp;**[4.8.8](./Linux/dowload_list_linux_4.8.8.md)**
 * Long-term:&emsp;**[4.7.14](./Linux/dowload_list_linux_4.7.14.md)**
 * Version information:&emsp;**[Release Note](./Linux/release_note.md)**

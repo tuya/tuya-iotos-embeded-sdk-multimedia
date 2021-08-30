@@ -1,4 +1,16 @@
 English | [简体中文](./release_note_zh-CN.md)
+## release note for **[5.2.16](./dowload_list_linux_5.2.16.md)** 20210109:
+### [new feature&optimization version]
+- Support FFS config
+- Support set speed of playback
+- Support cover pic of SD storage
+- support delete media file of SD storage
+- Support update DP dynamically
+- Optimize pic upload of event alarm(DP 212)
+- Optimize P2P transfer
+- Optimize QR-active
+- Optimize download media of SD storage
+- Update new IOT core
 
 ## release note for **[4.8.8](./dowload_list_linux_4.8.8.md)** 20210109:
 ### [optimization version]
