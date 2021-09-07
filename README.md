@@ -16,9 +16,9 @@ The long-term version is verified on several platforms by Tuya and developers.
 * Long-term:&emsp;**[4.7.14](./Linux/dowload_list_linux_4.7.14.md)**
 * Version information:&emsp;**[Release Note](./Linux/release_note.md)**
 
-### SDK for IPCs (FreeRTOS)
+### SDK for IPCs (RTOS)
 * Mainline:&emsp;**[1.0.1](./RTOS/dowload_list_rtos.md)**
-* System Check:&emsp;**[check tools](./RTOS/Tuya_IPC_RTOS_System_Check.rar)**
+* **[For new SoC](./RTOS/For_New_SoC)**
 
 ### SDK for IPCs (LiteOS)
 * Long-term (for LiteOS):&emsp;**[4.8.8](./LiteOS/dowload_list_liteos_4.8.8.md)**

@@ -20,7 +20,7 @@ longterm指代已经经过多个涂鸦客户硬件平台产品级别验证的版
 
 ### RTOS系统版本
 * Mainline:&emsp;**[1.0.1](./RTOS/dowload_list_rtos.md)**
-* 客户接入规范:&emsp;**[自测资料](./RTOS/Tuya_IPC_RTOS_System_Check.rar)**
+* **[新SoC接入](./RTOS/For_New_SoC)**
 
 ### LiteOS系统版
 * longterm (for liteos):&emsp;**[4.8.8](./LiteOS/dowload_list_liteos_4.8.8.md)**
