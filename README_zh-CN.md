@@ -13,8 +13,10 @@ stable指代已经经过涂鸦内部特定硬件平台产品级别测试后发�
 longterm指代已经经过多个涂鸦客户硬件平台产品级别验证的版本。
 
 ### 标准Linux版本
-* **[下载SDK](./Linux/download.md)**
-* **[Release Note](./Linux/release_note.md)**
+* Mainline:&emsp;&emsp;**[5.2.16](./Linux/dowload_list_linux_5.2.16.md)**
+* stable:&emsp;&emsp;**[4.8.8](./Linux/dowload_list_linux_4.8.8.md)**
+* longterm:&emsp;**[4.7.14](./Linux/dowload_list_linux_4.7.14.md)**
+* version info:&emsp;**[releaseNote](./Linux/release_note_zh-CN.md)**
 
 ### RTOS系统版本
 * Mainline:&emsp;**[1.0.1](./RTOS/dowload_list_rtos.md)**
