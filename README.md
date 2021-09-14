@@ -11,10 +11,8 @@ The stable version is verified on a specific hardware platform by Tuya.<br>
 The long-term version is verified on several platforms by Tuya and developers.
 
 ### SDK for IPCs (standard Linux)
-* Mainline:&emsp;&emsp;**[5.2.16](./Linux/dowload_list_linux_5.2.16.md)**
-* Stable:&emsp;&emsp;**[4.8.8](./Linux/dowload_list_linux_4.8.8.md)**
-* Long-term:&emsp;**[4.7.14](./Linux/dowload_list_linux_4.7.14.md)**
-* Version information:&emsp;**[Release Note](./Linux/release_note.md)**
+* **[Download](./Linux/download.md)**
+* **[Release Note](./Linux/release_note.md)**
 
 ### SDK for IPCs (RTOS)
 * Mainline:&emsp;**[1.0.1](./RTOS/dowload_list_rtos.md)**

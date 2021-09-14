@@ -1,5 +1,5 @@
 English | [简体中文](./release_note_zh-CN.md)
-## release note for **[5.2.16](./dowload_list_linux_5.2.16.md)** 20210109:
+## release note for 5.2.18 20210911
 ### [new feature&optimization version]
 - Support FFS config
 - Support set speed of playback
@@ -12,13 +12,30 @@ English | [简体中文](./release_note_zh-CN.md)
 - Optimize download media of SD storage
 - Update new IOT core
 
-## release note for **[4.8.8](./dowload_list_linux_4.8.8.md)** 20210109:
+## release note for 4.9.8 20210911
+### [new feature&optimization version]
+- Support H265+ intelligent encoding
+- Add new API for low power of TCP mode
+- Add customized audio play
+- Add cancel and stop api of doorbell
+- Support playback in web
+- Support mute silent video in local storage and cloud storage
+- Modify max bitrate to 5000kbps
+- Fix Bug: possibly get wrong UTC time
+
+## release note for 4.8.10 20210911
+### [optimization version]
+- Fix bug of offline or crash cause of remote linkage(SAAS)
+- Support cancel of doorbell by device
+- Support append media data with time
+
+## release note for 4.8.8 20210109
 ### [optimization version]
 - Optimize the logic of minimal interval of motion detection notification(60 sec)
 - Support termination of 3rd streaming when set to secret mode
 - Fix bug: the crash of streamer module because of unalign 
 
-## release note for **[4.8.6](./dowload_list_linux_4.8.6.md)** 20201118:
+## release note for 4.8.6 20201118
 ### [new feature&optimization version]
 - Minimal interval of motion detection notification changes to 60sec
 - Use hmac to check OTA file for higher security
@@ -36,14 +53,14 @@ English | [简体中文](./release_note_zh-CN.md)
 - Fix bug: MQTT service may fail in certain weak network
 - Fix bug: two devices may appear when pairing in auto find mode for wired camera
 
-## release note for 4.8.4 20200722:
+## release note for 4.8.4 20200722
 ### [new feature version]
 - Support preview on AP mode(LAN only)
 - Support new pairing method: scan QR on device with network
 - Support video message
 - Support WiFi migration
 
-## release note for **[4.7.14](./dowload_list_linux_4.7.14.md)** 20200720:
+## release note for 4.7.14 20200720
 ### [optimization version]
 - fix bug: mosaic appears when multi-channel preivew via webrtc
 - fix bug: pre-record fail when no SD cards inserted
