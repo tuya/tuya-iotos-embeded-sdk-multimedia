@@ -26,8 +26,7 @@ The long-term version is verified on several platforms by Tuya and developers.
 * Mainline:&emsp;**[1.0.4](./Base-station&Camera-Suit/download_list_kit.md)**
 
 ### SDK for XVRs (NRVs and DVRs)
-* Mainline:&emsp;**[1.5.4](./XVR/download_list_1.5.4.md)**
-* Stable:&emsp;**[1.4.6](./XVR/download_list_1.4.6.md)**
+* **[Download](./XVR/download.md)**
 
 ### SDK for car DV
 
