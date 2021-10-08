@@ -2,7 +2,7 @@ English | [简体中文](./release_note_zh-CN.md)
 ## release note for 5.2.22 20211008
 ### [new feature&optimization version]
 - Support update attch ota verison
-- Modify file name: event.h  -> ipc_event.h
+- Modify file name: event.h  -> tuya_ipc_event.h
 
 ## release note for 5.2.18 20210911
 ### [new feature&optimization version]

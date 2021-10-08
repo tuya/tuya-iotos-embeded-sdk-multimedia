@@ -2,7 +2,7 @@
 ## release note for 5.2.22 20211008
 ### [新功能&优化]
 - 支持附属固件版本上报
-- 修改头文件名称event.h为ipc_event.h
+- 修改头文件名称event.h为tuya_ipc_event.h
 
 ## release note for 5.2.18 20210911
 ### [新功能&优化]
