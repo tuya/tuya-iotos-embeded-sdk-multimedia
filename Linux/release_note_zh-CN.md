@@ -1,4 +1,9 @@
 [English](./release_note.md) | 简体中文
+## release note for 5.2.22 20211008
+### [新功能&优化]
+- 支持附属固件版本上报
+- 修改头文件名称event.h为ipc_event.h
+
 ## release note for 5.2.18 20210911
 ### [新功能&优化]
 - 新增FFS配网

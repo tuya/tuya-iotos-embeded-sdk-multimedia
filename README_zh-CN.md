@@ -28,8 +28,7 @@ longterm指代已经经过多个涂鸦客户硬件平台产品级别验证的版
 * mainline:&emsp;**[1.0.4](./Base-station&Camera-Suit/download_list_kit.md)**
 
 ### XVR(NRV&DVR)版本
-* mainline:&emsp;**[1.5.4](./XVR/download_list_1.5.4.md)**
-* stable:&emsp;**[1.4.6](./XVR/download_list_1.4.6.md)**
+* **[下载SDK](./XVR/download.md)**
 
 ### 行车记录仪版本
 

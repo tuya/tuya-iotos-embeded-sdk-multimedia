@@ -1,0 +1,21 @@
+Vendor | Chip| Toolchain| Gcc Version|Mainline| Longterm|Stable
+---|---|---|---|---| --- | --- 
+Linux | linux | linux-ubuntu-6.2.0_64Bit | 16.04 | [2.0.0](https://images.tuyacn.com/rms-static/3daf8380-1ba1-11ec-b7af-2d39f353debc-1632313988024.tar.gz?tyName=ty_xvr_gw_linux_sdk-TuyaOS2.3.0_ty_xvr_gw_linux_sdk_2.0.0_linux-ubuntu-6.2.0_64Bit_wire_fs_1.0.19.tar.gz)
+CViTek(晶视智能)|CV1832	|gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu	|6.3.0| [2.0.0](https://images.tuyacn.com/rms-static/3d991550-1ba1-11ec-ae0e-ef06697a0707-1632313987877.tar.gz?tyName=ty_xvr_gw_linux_sdk-TuyaOS2.3.0_ty_xvr_gw_linux_sdk_2.0.0_gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu_wire_fs_0.0.2.tar.gz)
+Hisilicon	|Hi3518ev300	|arm-himix100-linux	|6.3.0| [2.0.0](https://images.tuyacn.com/rms-static/3d85db70-1ba1-11ec-ae0e-ef06697a0707-1632313987751.tar.gz?tyName=ty_xvr_gw_linux_sdk-TuyaOS2.3.0_ty_xvr_gw_linux_sdk_2.0.0_arm-himix100-linux_wire_fs_1.2.6.tar.gz)
+Hisilicon	|Hi3518ev100	|arm-hisiv500-linux-ev100	|4.9.4| [2.0.0](https://images.tuyacn.com/rms-static/3d982af0-1ba1-11ec-ae0e-ef06697a0707-1632313987871.tar.gz?tyName=ty_xvr_gw_linux_sdk-TuyaOS2.3.0_ty_xvr_gw_linux_sdk_2.0.0_arm-hisiv500-linux-ev100_wire_fs_0.0.5.tar.gz)
+Hisilicon	|Hi3519	|arm-hisiv500-linux	|4.9.4| [2.0.0](https://images.tuyacn.com/rms-static/3daf0e50-1ba1-11ec-b7af-2d39f353debc-1632313988021.tar.gz?tyName=ty_xvr_gw_linux_sdk-TuyaOS2.3.0_ty_xvr_gw_linux_sdk_2.0.0_arm-hisiv500-linux_wire_fs_0.0.5.tar.gz)
+Hisilicon	|Hi3518EV200	|arm-hisiv300-linux-uclibc-4.8.3	|4.8.3| [2.0.0](https://images.tuyacn.com/rms-static/3d971980-1ba1-11ec-ae0e-ef06697a0707-1632313987864.tar.gz?tyName=ty_xvr_gw_linux_sdk-TuyaOS2.3.0_ty_xvr_gw_linux_sdk_2.0.0_arm-hisiv300-linux-uclibc-4.8.3_wire_fs_0.0.5.tar.gz)
+Hisilicon	|Hisi3536D	|arm-hisiv510-linux	|6.2.1| [2.0.0](https://images.tuyacn.com/rms-static/3dafd1a0-1ba1-11ec-b7af-2d39f353debc-1632313988026.tar.gz?tyName=ty_xvr_gw_linux_sdk-TuyaOS2.3.0_ty_xvr_gw_linux_sdk_2.0.0_arm-hisiv510-linux_wire_fs_0.0.9.tar.gz)
+Hisilicon	|HI3521DV200|	arm-himix400-linux|	7.3.0| [2.0.0](https://images.tuyacn.com/rms-static/3dadaec0-1ba1-11ec-b7af-2d39f353debc-1632313988012.tar.gz?tyName=ty_xvr_gw_linux_sdk-TuyaOS2.3.0_ty_xvr_gw_linux_sdk_2.0.0_arm-himix400-linux_wire_fs_0.0.2.tar.gz)
+Hisilicon	|hisi3559A	|aarch64-himix100-linux	|6.3.0| [2.0.0](https://images.tuyacn.com/rms-static/bb705ab0-1ba1-11ec-ae0e-ef06697a0707-1632314199003.tar.gz?tyName=ty_xvr_gw_linux_sdk-TuyaOS2.3.0_ty_xvr_gw_linux_sdk_2.0.0_aarch64-himix100-linux_wire_fs_0.0.3.tar.gz)
+Hisilicon	|hisi35xx | aarch64-himix200-linux	|7.3.0| [2.0.0](https://images.tuyacn.com/rms-static/3db6fd90-1ba1-11ec-ae0e-ef06697a0707-1632313988073.tar.gz?tyName=ty_xvr_gw_linux_sdk-TuyaOS2.3.0_ty_xvr_gw_linux_sdk_2.0.0_aarch64-himix200-linux_wire_fs_0.0.2.tar.gz)
+Ingenicc	|T20	|mips-linux-uclibc-4.7.2_32Bit|	4.7.2| [2.0.0](https://images.tuyacn.com/rms-static/ba1f97c0-1ba1-11ec-b7af-2d39f353debc-1632314196796.tar.gz?tyName=ty_xvr_gw_linux_sdk-TuyaOS2.3.0_ty_xvr_gw_linux_sdk_2.0.0_mips-linux-uclibc-4.7.2_32Bit_wire_fs_1.0.5.tar.gz)
+MTK	|MTK7628	|mipsel-openwrt-linux-uclibc-gcc-4.8.3	|4.8.3| [2.0.0](https://images.tuyacn.com/rms-static/3da6d0f0-1ba1-11ec-ae0e-ef06697a0707-1632313987967.tar.gz?tyName=ty_xvr_gw_linux_sdk-TuyaOS2.3.0_ty_xvr_gw_linux_sdk_2.0.0_mipsel-openwrt-linux-uclibc-gcc-4.8.3_wire_fs_1.0.3.tar.gz)
+MTK|MTK7628|	mipsel-openwrt-linux-gcc-4.8.3|	4.8.3| [2.0.0](https://images.tuyacn.com/rms-static/3db9e3c0-1ba1-11ec-b7af-2d39f353debc-1632313988092.tar.gz?tyName=ty_xvr_gw_linux_sdk-TuyaOS2.3.0_ty_xvr_gw_linux_sdk_2.0.0_mipsel-openwrt-linux-gcc-4.8.3_wire_fs_1.0.2.tar.gz)
+Novatek	|NT98623	|arm-ca9-linux-uclibcgnueabihf-6.5|	6.5.0| [2.0.0](https://images.tuyacn.com/rms-static/bcaf6a60-1ba1-11ec-ae0e-ef06697a0707-1632314201094.tar.gz?tyName=ty_xvr_gw_linux_sdk-TuyaOS2.3.0_ty_xvr_gw_linux_sdk_2.0.0_arm-ca9-linux-uclibcgnueabihf-6.5_wire_fs_0.0.4.tar.gz)
+富瀚	|MC6830|	molchipv500-armgcc-uclibc	|4.9.4| [2.0.0](https://images.tuyacn.com/rms-static/3db724a0-1ba1-11ec-ae0e-ef06697a0707-1632313988074.tar.gz?tyName=ty_xvr_gw_linux_sdk-TuyaOS2.3.0_ty_xvr_gw_linux_sdk_2.0.0_molchipv500-armgcc-uclibc_wire_fs_0.0.3.tar.gz)
+
+
+
+
