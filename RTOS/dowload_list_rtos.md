@@ -1,3 +1,9 @@
+## **[For new SoC](./For_New_SoC)**
+
+## LiteOS
+* **[Download](./LiteOS/dowload_list_liteos_4.8.8.md)**
+* **[Release Note](./LiteOS/release_note.md)**
+
 ## Huayi
 * [1.0.1](https://images.tuyacn.com/rms-static/8632e250-4456-11eb-aef2-f3fce9a27bac-1608642397429.tar.gz?tyName=tuya_ipc_sdk_rtos_huayi.tar.gz)
 ## Jieli

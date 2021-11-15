@@ -17,15 +17,10 @@ longterm指代已经经过多个涂鸦客户硬件平台产品级别验证的版
 * **[Release Note](./Linux/release_note.md)**
 
 ### RTOS系统版本
-* Mainline:&emsp;**[1.0.1](./RTOS/dowload_list_rtos.md)**
-* **[新SoC接入](./RTOS/For_New_SoC)**
-
-### LiteOS系统版
-* longterm (for liteos):&emsp;**[4.8.8](./LiteOS/dowload_list_liteos_4.8.8.md)**
-* version info:&emsp;**[releaseNote](./LiteOS/release_note_zh-CN.md)**
+* **[下载SDK](./RTOS/dowload_list_rtos.md)**
 
 ### 基站-相机套装版本
-* mainline:&emsp;**[1.0.4](./Base-station&Camera-Suit/download_list_kit.md)**
+* **[下载SDK](./Base-station&Camera-Suit/download_list_kit.md)**
 
 ### XVR(NRV&DVR)版本
 * **[下载SDK](./XVR/download.md)**
@@ -34,10 +29,10 @@ longterm指代已经经过多个涂鸦客户硬件平台产品级别验证的版
 
 
 ### 门锁版本
-* mainline:&emsp;**[1.0.0](./Door-Lock/doorlock_sdk_release.md)**
+* **[下载SDK](./Door-Lock/doorlock_sdk_release.md)**
 
 ### 产测专用
-* longterm:&emsp;**[1.1.0](./fac/dowload_list_fac_1.1.0.md)**
+* **[下载SDK](./fac/dowload_list_fac_1.1.0.md)**
 
 ## 快速上手
 

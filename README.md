@@ -10,31 +10,26 @@ The mainline version is the newest SDK. APIs are all tested by Tuya.<br>
 The stable version is verified on a specific hardware platform by Tuya.<br>
 The long-term version is verified on several platforms by Tuya and developers.
 
-### SDK for IPCs (standard Linux)
+### SDK for IPC (Linux)
 * **[Download](./Linux/download.md)**
 * **[Release Note](./Linux/release_note.md)**
 
-### SDK for IPCs (RTOS)
-* Mainline:&emsp;**[1.0.1](./RTOS/dowload_list_rtos.md)**
-* **[For new SoC](./RTOS/For_New_SoC)**
-
-### SDK for IPCs (LiteOS)
-* Long-term (for LiteOS):&emsp;**[4.8.8](./LiteOS/dowload_list_liteos_4.8.8.md)**
-* Version information:&emsp;**[Release Note](./LiteOS/release_note.md)**
+### SDK for IPC (RTOS)
+* **[Download](./RTOS/dowload_list_rtos.md)**
 
 ### SDK for base station and **camera suite**
-* Mainline:&emsp;**[1.0.4](./Base-station&Camera-Suit/download_list_kit.md)**
+* **[Download](./Base-station&Camera-Suit/download_list_kit.md)**
 
-### SDK for XVRs (NRVs and DVRs)
+### SDK for XVR (NRV and DVR)
 * **[Download](./XVR/download.md)**
 
-### SDK for car DV
+### SDK for CarDV
 
 ### SDK for Door Lock
-* Mainline:&emsp;**[1.0.0](./Door-Lock/doorlock_sdk_release.md)**
+* **[Download](./Door-Lock/doorlock_sdk_release.md)**
 
-### SDK for production tests
-* Long-term:&emsp;**[1.1.0](./fac/dowload_list_fac_1.1.0.md)**
+### SDK for production test
+* **[Download](./fac/dowload_list_fac_1.1.0.md)**
 
 ## Get started
 
