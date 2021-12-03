@@ -1,4 +1,9 @@
 English | [简体中文](./release_note_zh-CN.md)
+## release note for 5.2.30(wifi_fs ONLY) 20211203
+### [optimization version]
+- Fix bug of dp send in pressure test
+- Fix crash of p2p when review before power-on
+
 ## release note for 5.2.22 20211008
 ### [new feature&optimization version]
 - Support update attch ota verison
