@@ -22,6 +22,11 @@ English | [简体中文](./release_note_zh-CN.md)
 - Optimize download media of SD storage
 - Update new IOT core
 
+## release note for 4.9.10 20211207
+### [optimization version]
+- Fix bug, device active fail in West-Europe
+- Fix bug, webrtc get stream fail after several request
+
 ## release note for 4.9.8 20210911
 ### [new feature&optimization version]
 - Support H265+ intelligent encoding
