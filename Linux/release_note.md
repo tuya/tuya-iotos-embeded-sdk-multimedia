@@ -1,5 +1,5 @@
 English | [简体中文](./release_note_zh-CN.md)
-## release note for 5.2.30(wifi_fs ONLY) 20211203
+## release note for 5.2.30 20211211
 ### [optimization version]
 - Fix bug of dp send in pressure test
 - Fix crash of p2p when review before power-on

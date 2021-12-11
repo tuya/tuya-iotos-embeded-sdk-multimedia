@@ -1,5 +1,5 @@
 [English](./release_note.md) | 简体中文
-## release note for 5.2.30(仅wifi_fs) 20211203
+## release note for 5.2.30 20211211
 ### [优化]
 - 修复压力测试环境下出现的dp点卡住问题
 - 修复拉流状态下启动设备出现的偶现崩溃问题
