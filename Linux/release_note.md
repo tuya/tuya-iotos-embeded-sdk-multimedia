@@ -24,7 +24,7 @@ English | [简体中文](./release_note_zh-CN.md)
 
 ## release note for 4.9.10 20211207
 ### [optimization version]
-- Fix bug, device active fail in West-Europe
+- Support new default Tuya Cloud region: West-Europe
 - Fix bug, webrtc get stream fail after several request
 
 ## release note for 4.9.8 20210911
@@ -54,7 +54,7 @@ English | [简体中文](./release_note_zh-CN.md)
 ### [new feature&optimization version]
 - Minimal interval of motion detection notification changes to 60sec
 - Use hmac to check OTA file for higher security
-- Support new default Tuya Cloud region: East-USA, West-Europe
+- Support new default Tuya Cloud region: East-USA
 - Support new notification type, check enum NOTIFICATION_NAME_E in tuya_ipc_api.h
 - Support configurable cloud storage slice duration
 - Support receiving raw type DP
