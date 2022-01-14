@@ -1,4 +1,11 @@
 English | [简体中文](./release_note_zh-CN.md)
+## release note for 5.2.34 20220114
+### [optimization version]
+- fix low probability crash of p2p
+- use system dns default
+- add api to stop cloud storage immediately
+- fix bug of playback, can't get next file when cur file read fail
+
 ## release note for 5.2.30 20211211
 ### [optimization version]
 - Fix bug of dp send in pressure test
