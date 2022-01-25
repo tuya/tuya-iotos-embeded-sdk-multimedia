@@ -29,6 +29,13 @@ English | [简体中文](./release_note_zh-CN.md)
 - Optimize download media of SD storage
 - Update new IOT core
 
+## release note for 4.9.14 20220125
+### [optimization version]
+- Change default IP of CN IOT DNS
+- Support regist cb to get ip 
+- fix bug of playback, can't get next file when cur file read fail
+- Change default log level to NOTICE, and delete the print of key
+
 ## release note for 4.9.10 20211207
 ### [optimization version]
 - Support new default Tuya Cloud region: West-Europe
