@@ -14,6 +14,10 @@ The long-term version is verified on several platforms by Tuya and developers.
 * **[Download](./Linux/download.md)**
 * **[Release Note](./Linux/release_note.md)**
 
+### SDK for IPC (LiteOS)
+* **[Download](./LiteOS/download.md)**
+* **[Release Note](./LiteOS/release_note.md)**
+
 ### SDK for IPC (RTOS)
 * **[Download](./RTOS/dowload_list_rtos.md)**
 

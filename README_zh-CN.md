@@ -16,6 +16,10 @@ longterm指代已经经过多个涂鸦客户硬件平台产品级别验证的版
 * **[下载SDK](./Linux/download.md)**
 * **[Release Note](./Linux/release_note.md)**
 
+### LiteOS版本
+* **[下载SDK](./LiteOS/download.md)**
+* **[Release Note](./LiteOS/release_note.md)**
+
 ### RTOS系统版本
 * **[下载SDK](./RTOS/dowload_list_rtos.md)**
 
