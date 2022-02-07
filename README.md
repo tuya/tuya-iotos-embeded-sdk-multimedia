@@ -26,6 +26,7 @@ The long-term version is verified on several platforms by Tuya and developers.
 
 ### SDK for XVR (NRV and DVR)
 * **[Download](./XVR/download.md)**
+* **[Release Note](./XVR/release_note.md)**
 
 ### SDK for CarDV
 

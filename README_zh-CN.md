@@ -28,6 +28,7 @@ longterm指代已经经过多个涂鸦客户硬件平台产品级别验证的版
 
 ### XVR(NRV&DVR)版本
 * **[下载SDK](./XVR/download.md)**
+* **[Release Note](./XVR/release_note.md)**
 
 ### 行车记录仪版本
 
