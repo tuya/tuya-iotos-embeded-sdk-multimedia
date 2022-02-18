@@ -1,4 +1,11 @@
 English | [简体中文](./release_note_zh-CN.md)
+## release note for 5.3.10 20220218
+### [new feature&optimization version]
+- Support playback with WebRTC
+- Support get log of device by tuya cloud
+- Upgrade version of Lan Protocol to improve safety
+- Disable default print of DEBUG infomation
+
 ## release note for 5.2.34 20220114
 ### [optimization version]
 - fix low probability crash of p2p

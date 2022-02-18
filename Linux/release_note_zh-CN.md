@@ -1,4 +1,11 @@
 [English](./release_note.md) | 简体中文
+## release note for 5.3.10 20220218
+### [新功能&优化]
+- 新增webrtc回放功能
+- 新增日志导出功能
+- 局域网协议版本升级，提高安全性
+- 默认关闭DEBUG日志打印
+
 ## release note for 5.2.34 20220114
 ### [优化]
 - 修复低概率p2p拉流崩溃
