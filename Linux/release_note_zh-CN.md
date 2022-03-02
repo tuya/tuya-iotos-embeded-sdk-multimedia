@@ -1,4 +1,8 @@
 [English](./release_note.md) | 简体中文
+## release note for 5.3.14 20220302
+### [优化]
+- 修复P2P偶发性崩溃
+
 ## release note for 5.3.10 20220218
 ### [新功能&优化]
 - 新增webrtc回放功能

@@ -1,4 +1,8 @@
 English | [简体中文](./release_note_zh-CN.md)
+## release note for 5.3.14 20220302
+### [optimization version]
+- fix low probability crash of p2p
+
 ## release note for 5.3.10 20220218
 ### [new feature&optimization version]
 - Support playback with WebRTC
