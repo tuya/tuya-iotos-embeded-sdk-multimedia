@@ -1,4 +1,9 @@
 English | [简体中文](./release_note_zh-CN.md)
+## release note for 5.3.20 20220428
+### [new feature]
+- Support low-cost cloud storage
+- Support upload attach ota info
+
 ## release note for 5.3.14 20220302
 ### [optimization version]
 - fix low probability crash of p2p
@@ -39,6 +44,10 @@ English | [简体中文](./release_note_zh-CN.md)
 - Optimize QR-active
 - Optimize download media of SD storage
 - Update new IOT core
+
+## release note for 4.10.0 20220428
+### [new feature]
+- Support low-cost cloud storage
 
 ## release note for 4.9.14 20220125
 ### [optimization version]
