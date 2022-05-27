@@ -1,4 +1,8 @@
 [English](./release_note.md) | 简体中文
+## release note for 2.1.0 20220527
+### [优化]
+- 优化P2P多路打洞方案，提升多路出流时间和成功率。
+
 ## release note for 2.0.4 20220324
 ### [优化]
 - 支持0.5倍回放
