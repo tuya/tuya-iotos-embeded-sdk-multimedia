@@ -1,4 +1,9 @@
 English | [简体中文](./release_note_zh-CN.md)
+## release note for 5.3.22 20220610
+### [optimization version]
+- Fix crash of network configuration
+- Fix problems that APP cannot be previewed with some ISP
+
 ## release note for 5.3.20 20220428
 ### [new feature]
 - Support low-cost cloud storage
@@ -45,9 +50,18 @@ English | [简体中文](./release_note_zh-CN.md)
 - Optimize download media of SD storage
 - Update new IOT core
 
+## release note for 4.10.2 20220610
+### [optimization version]
+- Fix problems that APP cannot be previewed with some ISP
+
 ## release note for 4.10.0 20220428
 ### [new feature]
 - Support low-cost cloud storage
+
+## release note for 4.9.18 20220610
+### [optimization version]
+- Fix problems that APP cannot be previewed with some ISP
+- Improve log security, disable DEBUG log default 
 
 ## release note for 4.9.14 20220125
 ### [optimization version]
