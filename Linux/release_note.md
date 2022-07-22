@@ -1,4 +1,9 @@
 English | [简体中文](./release_note_zh-CN.md)
+## release note for 5.3.24 20220722
+### [optimization version]
+- Delete smartconfig(EZ)
+- Update libp2p. Improve probability of peer-to-peer connect.
+
 ## release note for 5.3.22 20220610
 ### [optimization version]
 - Fix crash of network configuration

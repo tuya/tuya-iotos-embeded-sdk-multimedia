@@ -1,4 +1,9 @@
 [English](./release_note.md) | 简体中文
+## release note for 5.3.24 20220722
+### [优化]
+- 去除EZ配网方式
+- P2P优化，提升穿透成功率
+
 ## release note for 5.3.22 20220610
 ### [优化]
 - 修复概率性配网崩溃问题
