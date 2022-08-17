@@ -1,4 +1,9 @@
 [English](./release_note.md) | 简体中文
+## release note for 5.3.26 20220817
+### [新功能]
+- 新增自定义语音
+- 新增门铃主动取消
+
 ## release note for 5.3.24 20220722
 ### [优化]
 - 去除EZ配网方式

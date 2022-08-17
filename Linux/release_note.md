@@ -1,4 +1,8 @@
 English | [简体中文](./release_note_zh-CN.md)
+## release note for 5.3.26 20220817
+- Add customized audio play
+- Add cancel and stop api of doorbell
+
 ## release note for 5.3.24 20220722
 ### [optimization version]
 - Delete smartconfig(EZ)
