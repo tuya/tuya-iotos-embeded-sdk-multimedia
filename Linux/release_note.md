@@ -1,5 +1,16 @@
 English | [简体中文](./release_note_zh-CN.md)
+## release note for 5.3.30 20221201
+### [optimization version]
+- Fix crash of wifi+wired MODE
+ 
+## release note for 5.3.28 20220913
+### [optimization version]
+- Fix wrong status of cloud storage when upload last slice fail.
+- Decrease usage of mem
+- Optimize send speed of playback
+
 ## release note for 5.3.26 20220817
+### [optimization version]
 - Add customized audio play
 - Add cancel and stop api of doorbell
 
