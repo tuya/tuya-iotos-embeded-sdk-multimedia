@@ -1,4 +1,8 @@
 [English](./release_note.md) | 简体中文
+## release note for 5.3.32 20230208
+### [优化]
+- 优化UPnP功能
+
 ## release note for 5.3.30 20221201
 ### [优化]
 - 修复有线+无线模式SDK的崩溃问题

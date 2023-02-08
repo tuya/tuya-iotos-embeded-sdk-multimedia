@@ -1,4 +1,8 @@
 English | [简体中文](./release_note_zh-CN.md)
+## release note for 5.3.32 20230208
+### [optimization version]
+- Optimize UPnP module.
+
 ## release note for 5.3.30 20221201
 ### [optimization version]
 - Fix crash of wifi+wired MODE
