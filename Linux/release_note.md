@@ -82,6 +82,12 @@ English | [简体中文](./release_note_zh-CN.md)
 ### [new feature]
 - Support low-cost cloud storage
 
+## release note for 4.9.20 20230216
+### [optimization version]
+- Fix bug of qrcode active, get certificate repetitive 
+- Don't write the dns prio to flash
+- Optimeze playback. When change playback time, the progress bar may jump back.
+
 ## release note for 4.9.18 20220610
 ### [optimization version]
 - Fix problems that APP cannot be previewed with some ISP
