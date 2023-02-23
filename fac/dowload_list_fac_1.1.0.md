@@ -5,14 +5,6 @@
 * [aarch64-linux-android-4.9-ndk-r18b for 64bit](https://github.com/TuyaInc/TUYA_IPC_SDK/tree/master/Stable/aarch64-linux-android-4.9-ndk-r18b)
 * [arm-linux-androideabi-4.9-ndk-r18b for 32bit](https://github.com/TuyaInc/TUYA_IPC_SDK/tree/master/Stable/arm-linux-androideabi-4.9-ndk-r18b)
 
-## 海思 Hisilicon
-* [arm-hisiv100-linux-uclibc-4.4.1](https://github.com/TuyaInc/TUYA_IPC_SDK/tree/master/Stable/arm-hisiv100-linux-uclibc-4.4.1)
-* [arm-hisiv300-linux-uclibc-4.8.3](https://github.com/TuyaInc/TUYA_IPC_SDK/tree/master/Stable/arm-hisiv300-linux-uclibc-4.8.3)
-* [arm-hisiv500-linux-4.9.4](https://github.com/TuyaInc/TUYA_IPC_SDK/tree/master/Stable/arm-hisiv500-linux-4.9.4)
-* [arm-hisiv510-linux](https://github.com/TuyaInc/TUYA_IPC_SDK/tree/master/Stable/arm-hisiv510-linux)
-* [arm-hisiv600-linux](https://github.com/TuyaInc/TUYA_IPC_SDK/tree/master/Stable/arm-hisiv600-linux)
-* [arm-himix100-linux](https://github.com/TuyaInc/TUYA_IPC_SDK/tree/master/Stable/arm-himix100-linux)
-* [arm-himix200-linux](https://github.com/TuyaInc/TUYA_IPC_SDK/tree/master/Stable/arm-himix200-linux)
 
 ## 瑞昱 Realtek
 * [mips-linux-uclibc-gcc-4.8.5 for rts3903](https://github.com/TuyaInc/TUYA_IPC_SDK/tree/master/Stable/mips-linux-uclibc-gcc-4.8.5_rts3903)
