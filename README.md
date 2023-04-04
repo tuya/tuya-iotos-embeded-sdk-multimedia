@@ -1,56 +1,32 @@
-English | [简体中文](./README_zh-CN.md)
+[English](./README_en.md) | 简体中文
 
-# Tuya Embedded SDK for Multimedia Devices
-
-## Overview
-Multimedia SDK is part of Tuya IoTOS and used to develop embedded devices, such as IP cameras (IPCs), network video recorders (NVRs), digital video recorders (DVRs), doorbells, and floodlights. The C standard library, related header files, and documents are included to support Linux, LiteOS, and real-time operating systems (RTOSs).
-
-## Download
-The mainline version is the newest SDK. APIs are all tested by Tuya.<br>
-The stable version is verified on a specific hardware platform by Tuya.<br>
-The long-term version is verified on several platforms by Tuya and developers.
-
-### SDK for IPC (Linux)
-* **[Download](./Linux/download.md)**
-* **[Release Note](./Linux/release_note.md)**
-
-### SDK for IPC (LiteOS)
-* **[Download](./LiteOS/download.md)**
-* **[Release Note](./LiteOS/release_note.md)**
-
-### SDK for IPC (RTOS)
-* **[Download](./RTOS/dowload_list_rtos.md)**
-
-### SDK for base station and **camera suite**
-* **[Download](./Base-station&Camera-Suit/download_list_kit.md)**
-
-### SDK for XVR (NRV and DVR)
-* **[Download](./XVR/download.md)**
-* **[Release Note](./XVR/release_note.md)**
-
-### SDK for CarDV
-
-### SDK for Door Lock
-* **[Download](./Door-Lock/doorlock_sdk_release.md)**
-
-### SDK for production test
-* **[Download](./fac/dowload_list_fac_1.1.0.md)**
-
-## Get started
-
-* Create a product on the Tuya IoT Platform. For more information, see [Create Products](https://developer.tuya.com/en/docs/iot/configure-in-platform/create-product/create-product?id=K914jp1ijtsfe).
-**Note**: Select the \<Video Surveillance\> category and \<Smart Camera\> product, and specify \<Custom Solution\> as the plan. Get PID info. ([What's this?](https://github.com/tuya/tuya-iotos-embeded-sdk-multimedia/wiki/What-is#what-is-pid))
-
-* Get 10 free licenses, including UUID&AUTHKEY. ([What's this?](https://github.com/tuya/tuya-iotos-embeded-sdk-multimedia/wiki/What-is#what-is-uuid--authkey))
-
-* Clone demo code on the [demo](https://github.com/tuya/tuya-iotos-embeded-multimedia-demo). For more information, see [Get started](https://github.com/tuya/tuya-iotos-embeded-multimedia-demo#get-started).
+# Tuya嵌入式多媒体SDK
 
 
-## Support
+## 介绍
+Tuya嵌入式多媒体SDK是在涂鸦IoTOS体系中针对具备音视频能力的嵌入式设备，如网络摄像机（IPC）、录像机（NVR/DVR）、可视门铃（doorbell）、摄像头灯（Floodlight）等推出的软件开发包。
 
-Tuya IoT Developer Platform: https://developer.tuya.com/en/ <br>
-Tuya Smart Help Center: https://support.tuya.com/en/help <br>
-Technical Support Console: https://service.console.tuya.com/
+## 下载中心
+* **[IPC SDK](./download_ipc.md)**
+* **[NVR SDK](./download_nvr.md)**
+* **[产测SDK](./dowload_fac.md)**
+
+## 快速上手
+
+* [涂鸦开发者平台创建产品](https://developer.tuya.com/cn/docs/iot/configure-in-platform/create-product/create-product?id=K914jp1ijtsfe) 获取 PID 信息([What's this?](https://github.com/tuya/tuya-iotos-embeded-sdk-multimedia/wiki/What-is#what-is-pid))<br> 
+注：产品类型选择智能摄像机
+
+* 获取 UUID&AUTHKEY 信息.([What's this?](https://github.com/tuya/tuya-iotos-embeded-sdk-multimedia/wiki/What-is#what-is-uuid--authkey))
+
+* 使用Tuya [demo代码](https://github.com/tuya/tuya-iotos-embeded-multimedia-demo), 参考[快速上手说明](https://github.com/tuya/tuya-iotos-embeded-multimedia-demo#get-started)进行demo开发
+
+
+## 技术支持
+
+[开发者论坛](https://www.tuyaos.com/viewforum.php?f=14) <br>
+[开发者中心](https://developer.tuya.com/cn/) <br>
+[帮助中心](https://support.tuya.com/cn/help) <br>
+[技术支持工单中心](https://iot.tuya.com/council/) 
 
 ## License
 [MIT License](./LICENSE)
