@@ -1,2 +1,0 @@
-## Ubuntu x64
-* [linux-ubuntu-6.2.0_64Bit](https://images.tuyaus.com/rms-static/bcfcca70-c8c8-11eb-a612-5b4b30143431-1623205005463.tar.gz?tyName=ty_ipc_wf_linux_sdk-TuyaOS2.3.0_ty_ipc_wf_linux_sdk_5.0.8-beta.36_linux-ubuntu-6.2.0_64Bit_demo_1.0.1.tar.gz)
