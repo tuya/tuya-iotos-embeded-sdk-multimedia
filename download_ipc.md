@@ -16,6 +16,7 @@ Fullhan | FH8636 | arm-fullhanv3-linux-uclibcgnueabi-b6 | 6.5.0 | [5.3.32](https
 - 修复有线+无线模式SDK的概率崩溃问题
 
 ## release note for v5.3.28 20220913
+
 - 修复云存储最后一个片段上次失败，云存储状态出错的问题
 - 降低内存使用
 - 优化SD卡回放的发送频率
