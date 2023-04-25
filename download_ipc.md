@@ -4,9 +4,28 @@
 
 Vendor | Chip| Toolchain| Gcc Version|Mainline| Longterm
 ---|---|---|---|---|---
-NA | Linux X86 | linux-ubuntu-6.2.0_64Bit | 16.04 | [5.3.26](https://images.tuyacn.com/rms-static/25554d60-1d2b-11ed-926e-13dfffcf7d07-1660630666550.zip?tyName=linux-ubuntu-6.2.0_64Bit.zip) | [4.9.18](https://images.tuyacn.com/rms-static/ece85c40-e6db-11ec-a271-7788f22b6630-1654659278852.tar.gz?tyName=linux-ubuntu-6.2.0_64Bit.tar.gz)Realtek | RTS3903 | mips-linux-uclibc-gcc-4.8.5 | 4.8.5 |  | [4.9.18](https://images.tuyacn.com/rms-static/ec9dbeb2-e6db-11ec-a0c1-c9688f19b248-1654659278363.tar.gz?tyName=mips-linux-uclibc-gcc-4.8.5.tar.gz)Realtek | RTS3906 | rsdk-6.4.1-linux | 6.4.1 |  | [4.9.18](https://images.tuyacn.com/rms-static/eca02fb0-e6db-11ec-a271-7788f22b6630-1654659278379.tar.gz?tyName=rsdk-6.4.1-linux.tar.gz)Realtek | RTS3903/3906 | rsdk-6.5.0 | 6.5.0 |  | [4.9.18](https://images.tuyacn.com/rms-static/ec9c8631-e6db-11ec-a271-7788f22b6630-1654659278355.tar.gz?tyName=rsdk-6.5.0.tar.gz)Anyka | AK3918/3916ev100 | arm-none-linux-4.4.1 | 4.4.1 | [5.3.26](https://images.tuyacn.com/rms-static/253e1be1-1d2b-11ed-ae38-d75fd532484b-1660630666398.zip?tyName=arm-none-linux-4.4.1.zip) | [4.9.18](https://images.tuyacn.com/rms-static/ecd98f31-e6db-11ec-a271-7788f22b6630-1654659278755.tar.gz?tyName=arm-none-linux-4.4.1.tar.gz)Anyka | AK3918/3916ev200 | arm-anykav200-linux-uclibc-4.8.5 | 4.8.5 | [5.3.26](https://images.tuyacn.com/rms-static/25186b70-1d2b-11ed-926e-13dfffcf7d07-1660630666151.zip?tyName=arm-anykav200-linux-uclibc-4.8.5.zip) | [4.9.18](https://images.tuyacn.com/rms-static/ec9d7091-e6db-11ec-a0c1-c9688f19b248-1654659278361.tar.gz?tyName=arm-anykav200-linux-uclibc-4.8.5.tar.gz)Anyka | AK3918 | arm-anykav500-linux-uclibcgnueabi-gcc-4.9.4 | 4.9.4 | [5.3.28](https://images.tuyacn.com/rms-static/a3f5fb90-6ee0-11ed-9d99-a5aaf2a10702-1669614662089.tar.gz?tyName=ty_ipc_wr_wl_linux_sdk-TuyaOS2.3.2_ty_ipc_wr_wl_linux_sdk_5.3.28_arm-anykav500-linux-uclibcgnueabi-gcc-4.9.4_wifi_wire_fs_0.0.17.tar.gz) | [4.9.18](https://images.tuyacn.com/rms-static/ec9d7090-e6db-11ec-a0c1-c9688f19b248-1654659278361.tar.gz?tyName=arm-anykav500-linux-uclibcgnueabi-gcc-4.9.4.tar.gz)Fullhan | FH8626V100 | arm-fullhanv2-linux-uclibcgnueabi-b2 | 5.5.0 | [5.3.26](https://images.tuyacn.com/rms-static/252a1eb0-1d2b-11ed-ae38-d75fd532484b-1660630666267.zip?tyName=arm-fullhanv2-linux-uclibcgnueabi-b2.zip) | [4.9.18](https://images.tuyacn.com/rms-static/ecc87831-e6db-11ec-a271-7788f22b6630-1654659278643.tar.gz?tyName=arm-fullhanv2-linux-uclibcgnueabi-b2.tar.gz)Fullhan | FH8626 | arm-fullhanv3-linux-uclibcgnueabi-b6.2 | 6.5.0 | [5.3.26](https://images.tuyacn.com/rms-static/25289810-1d2b-11ed-ae38-d75fd532484b-1660630666257.zip?tyName=arm-fullhanv3-linux-uclibcgnueabi-b6.2.zip) | [4.9.18](https://images.tuyacn.com/rms-static/ece80e20-e6db-11ec-a271-7788f22b6630-1654659278850.tar.gz?tyName=arm-fullhanv3-linux-uclibcgnueabi-b6.2.tar.gz)
-Fullhan | FH8636 | arm-fullhanv3-linux-uclibcgnueabi-b6 | 6.5.0 | [5.3.32](https://images.tuyacn.com/rms-static/d05a4190-a758-11ed-b55f-0761daf5ff1b-1675823541289.rar?tyName=arm-fullhanv3-linux-uclibcgnueabi-b6.rar) |  
+NA | Linux X86 | linux-ubuntu-6.2.0_64Bit | 16.04 | [5.3.34](https://images.tuyacn.com/rms-static/210cf150-e318-11ed-80aa-ef6f378e8a54-1682392829157.rar?tyName=tuya_ipc_sdk_5.3.34_linux-ubuntu-6.2.0_64Bit.rar) | [4.11.0](https://images.tuyacn.com/rms-static/ae1d8f90-e274-11ed-80aa-ef6f378e8a54-1682322628361.tar.gz?tyName=tuya_ipc_sdk_4.11.0_linux-ubuntu-6.2.0_64Bit.tar.gz)
+Realtek | RTS3903 | mips-linux-uclibc-gcc-4.8.5 | 4.8.5 | [5.3.34](https://images.tuyacn.com/rms-static/210c06f0-e318-11ed-ace1-c7bc07059f9e-1682392829151.rar?tyName=tuya_ipc_sdk_5.3.34_mips-linux-uclibc-gcc-4.8.5.rar) | [4.11.0](https://images.tuyacn.com/rms-static/ae1c5710-e274-11ed-ace1-c7bc07059f9e-1682322628353.tar.gz?tyName=tuya_ipc_sdk_4.11.0_mips-linux-uclibc-gcc-4.8.5.tar.gz)
+Realtek | RTS3906 | rsdk-6.4.1-linux | 6.4.1 | [5.3.34](https://images.tuyacn.com/rms-static/210b6ab0-e318-11ed-ace1-c7bc07059f9e-1682392829147.rar?tyName=tuya_ipc_sdk_5.3.34_rsdk-6.4.1.rar) | [4.11.0](https://images.tuyacn.com/rms-static/ae1d4170-e274-11ed-ace1-c7bc07059f9e-1682322628359.tar.gz?tyName=tuya_ipc_sdk_4.11.0_rsdk-6.4.1-linux.tar.gz)
+Realtek | RTS3903/3906 | rsdk-6.5.0 | 6.5.0 | [5.3.34](https://images.tuyacn.com/rms-static/210e50e0-e318-11ed-ace1-c7bc07059f9e-1682392829166.rar?tyName=tuya_ipc_sdk_5.3.34_rsdk-6.5.0.rar) | [4.11.0](https://images.tuyacn.com/rms-static/ae1d6880-e274-11ed-80aa-ef6f378e8a54-1682322628360.tar.gz?tyName=tuya_ipc_sdk_4.11.0_rsdk-6.5.0.tar.gz)
+Anyka | AK3918/3916ev100 | arm-none-linux-4.4.1 | 4.4.1 | [5.3.34](https://images.tuyacn.com/rms-static/210f6250-e318-11ed-80aa-ef6f378e8a54-1682392829173.rar?tyName=tuya_ipc_sdk_5.3.34_arm-none-linux-4.4.1.rar) | [4.11.0](https://images.tuyacn.com/rms-static/ae1ccc40-e274-11ed-ace1-c7bc07059f9e-1682322628356.tar.gz?tyName=tuya_ipc_sdk_4.11.0_arm-none-linux-4.4.1.tar.gz)
+Anyka | AK3918/3916ev200 | arm-anykav200-linux-uclibc-4.8.5 | 4.8.5 | [5.3.34](https://images.tuyacn.com/rms-static/210f3b40-e318-11ed-ace1-c7bc07059f9e-1682392829172.rar?tyName=tuya_ipc_sdk_5.3.34_arm-anykav200-linux-uclibc-4.8.5.rar) | [4.11.0](https://images.tuyacn.com/rms-static/ae1d6881-e274-11ed-80aa-ef6f378e8a54-1682322628360.tar.gz?tyName=tuya_ipc_sdk_4.11.0_arm-anykav200-linux-uclibc-4.8.5.tar.gz)
+Anyka | AK3918 | arm-anykav500-linux-uclibcgnueabi-gcc-4.9.4 | 4.9.4 | [5.3.34](https://images.tuyacn.com/rms-static/210c2e00-e318-11ed-80aa-ef6f378e8a54-1682392829152.rar?tyName=tuya_ipc_sdk_5.3.34_arm-anykav500-linux-uclibcgnueabi-gcc-4.9.4.rar) | [4.11.0](https://images.tuyacn.com/rms-static/ae1c7e20-e274-11ed-80aa-ef6f378e8a54-1682322628354.tar.gz?tyName=tuya_ipc_sdk_4.11.0_arm-anykav500-linux-uclibcgnueabi-gcc-4.9.4.tar.gz)
+Fullhan | FH8626V100 | arm-fullhanv2-linux-uclibcgnueabi-b2 | 5.5.0 | [5.3.34](https://images.tuyacn.com/rms-static/210c06f0-e318-11ed-80aa-ef6f378e8a54-1682392829151.rar?tyName=tuya_ipc_sdk_5.3.34_arm-fullhanv2-linux-uclibcgnueabi-b2.rar) | [4.11.0](https://images.tuyacn.com/rms-static/ae1e52e0-e274-11ed-80aa-ef6f378e8a54-1682322628366.tar.gz?tyName=tuya_ipc_sdk_4.11.0_arm-fullhanv2-linux-uclibcgnueabi-b2.tar.gz)
+Fullhan | FH8626 | arm-fullhanv3-linux-uclibcgnueabi-b6.2 | 6.5.0 | [5.3.34](https://images.tuyacn.com/rms-static/210d1860-e318-11ed-80aa-ef6f378e8a54-1682392829158.rar?tyName=tuya_ipc_sdk_5.3.34_arm-fullhanv3-linux-uclibcgnueabi-b6.2.rar) | [4.11.0](https://images.tuyacn.com/rms-static/ae1e2bd0-e274-11ed-ace1-c7bc07059f9e-1682322628365.tar.gz?tyName=tuya_ipc_sdk_4.11.0_arm-fullhanv3-linux-uclibcgnueabi-b6.2.tar.gz)
+Fullhan | FH8636 | arm-fullhanv3-linux-uclibcgnueabi-b6 | 6.5.0 | [5.3.34](https://images.tuyacn.com/rms-static/210e77f0-e318-11ed-ace1-c7bc07059f9e-1682392829167.rar?tyName=tuya_ipc_sdk_5.3.34_arm-fullhanv3-linux-uclibcgnueabi-b6.rar) | [4.11.0](https://images.tuyacn.com/rms-static/ae1e2bd0-e274-11ed-ace1-c7bc07059f9e-1682322628365.tar.gz?tyName=tuya_ipc_sdk_4.11.0_arm-fullhanv3-linux-uclibcgnueabi-b6.2.tar.gz) 
+
 # ReleaseNote
+
+## release note for v5.3.34 20230424
+-  进一步优化P2P穿透
+-  限制码率不超过2Mbps
+-  新增4G上报iccid的接口
+-  修复局域网功能在某些情况下的crash问题
+-  优化下载功能，使其不依赖回放
+-  修改存储依赖最新帧才能停止的问题
+-  优化ringbuffer 取预录制少2s问题
+-  优化日志序上传
 
 ## release note for v5.3.32 20230208
 - 优化P2P穿透成功率
@@ -69,6 +88,9 @@ Fullhan | FH8636 | arm-fullhanv3-linux-uclibcgnueabi-b6 | 6.5.0 | [5.3.32](https
 - 优化二维码直连扫码功能
 - 优化本地录像下载功能
 - 更新最新的IOT功能
+
+## release note for v4.11.0 20230424
+- 最大支持2Mbps码率
 
 ## release note for v4.10.2 20220618
 - 修复个别运营商网络无法出流问题
