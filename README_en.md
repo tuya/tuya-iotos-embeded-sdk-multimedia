@@ -7,7 +7,6 @@ Multimedia SDK is part of Tuya IoTOS and used to develop embedded devices, such 
 
 ## Download
 * **[IPC SDK](./download_ipc_en.md)**
-* **[NVR SDK](./download_nvr.md)**
 * **[Production SDK](./dowload_fac.md)**
 
 ## Get started

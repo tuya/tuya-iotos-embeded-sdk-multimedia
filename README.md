@@ -8,7 +8,6 @@ Tuya嵌入式多媒体SDK是在涂鸦IoTOS体系中针对具备音视频能力�
 
 ## 下载中心
 * **[IPC SDK](./download_ipc.md)**
-* **[NVR SDK](./download_nvr.md)**
 * **[产测SDK](./dowload_fac.md)**
 
 ## 快速上手
