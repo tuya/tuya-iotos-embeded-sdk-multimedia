@@ -1,5 +1,8 @@
 # ReleaseNote
 
+## release note for 5.3.36 20230512
+- Support upload hardware info
+
 ## release note for 5.3.34 20230424
 - Optimize P2P success rate again
 - Set max bitrate to 2Mbps
@@ -70,6 +73,9 @@
 - Optimize QR-active
 - Optimize download media of SD storage
 - Update new IOT core
+
+## release note for 4.11.2 20230512
+- Support upload hardware info
 
 ## release note for 4.11.0 20230424
 - Set max bitrate to 2Mbps

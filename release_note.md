@@ -1,5 +1,8 @@
 # ReleaseNote
 
+## release note for v5.3.36 20230512
+- 新增硬件信息上报功能
+
 ## release note for v5.3.34 20230424
 -  进一步优化P2P穿透
 -  限制码率不超过2Mbps
@@ -71,6 +74,9 @@
 - 优化二维码直连扫码功能
 - 优化本地录像下载功能
 - 更新最新的IOT功能
+
+## release note for v4.11.2 20230512
+- 新增硬件信息上报功能
 
 ## release note for v4.11.0 20230424
 - 最大支持2Mbps码率
