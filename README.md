@@ -27,11 +27,11 @@ Fullhan | FH8636 | arm-fullhanv3-linux-uclibcgnueabi-b6 | 6.5.0 | [5.3.36](https
 
 * 6.x系列的SDK发布，将统一通过涂鸦VS CODE Wind IDE插件发布，[跳转参考文档](https://developer.tuya.com/cn/docs/iot-device-dev/IPC-Product-Sofrware-Development-Kit?id=Kbfjuvhlyu2wr)。不同系列的版本差异如下：
 
- 版本周期 | 版本号 | 版本说明 |
+ 版本周期 | 版本系列 | 版本说明 |
 | --- | --- | --- |
 | TuyaOS版本 | 6.x | 支持IPV6<br>支持蓝牙配网/AP配网时在APP端显示有效wifi列表<br>支持流媒体安全分级<br>支持新AI检测<br>升级Mbed TLS版本至3.1.0<br>升级CJSON版本至1.7.15<br>*即将发布：对Homekit的支持|
-| 服务版本 | 5.3.36 | 能力更新迭代：<br>蓝牙配网<br>本地录像支持倍速回放、事件封面、录像删除<br>附属固件版本上报<br>自定义语音<br>4G iccid信息上报<br>设备主动取消呼叫<br>升级局域网通信安全等级<br>注：服务版本不再提供新功能迭代  |
-| 维护版本 | 4.11.2 | 提供IPC产品的基础能力：<br>IOT平台接入<br>U-RTC实时视频传输<br>本地录像与回放<br>云存储录像<br>事件告警<br>门铃呼叫<br>注：维护版本除修复致命/严重Bug外，不再提供版本更新 |
+| 服务版本 | 5.x | 最新版本5.3.36。相比4.x系列新增：<br>蓝牙配网<br>本地录像支持倍速回放、事件封面、录像删除<br>附属固件版本上报<br>自定义语音<br>4G iccid信息上报<br>设备主动取消呼叫<br>升级局域网通信安全等级<br>注：服务版本不再提供新功能迭代  |
+| 维护版本 | 4.x | 最新版本4.11.2。提供IPC产品的基础能力：<br>IOT平台接入<br>U-RTC实时视频传输<br>本地录像与回放<br>云存储录像<br>事件告警<br>门铃呼叫<br>注：维护版本除修复致命/严重Bug外，不再提供版本更新 |
 
 
 
