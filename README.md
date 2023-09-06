@@ -18,7 +18,7 @@ Tuya嵌入式多媒体SDK是在涂鸦IoTOS体系中针对具备音视频能力�
 
 * **[Release Note](./release_note.md)**
 
-Vendor | Chip| Toolchain|Mainline| Longterm
+厂商 | 芯片型号| Toolchain | 服务版本下载 | 维护版本下载
 ---|---|---|---|---
 NA | Linux X86 | linux-ubuntu-6.2.0_64Bit | [5.3.36](https://images.tuyacn.com/rms-static/3f7aa8c0-f070-11ed-8585-0943ff8b8030-1683860041036.rar?tyName=tuya_ipc_sdk_5.3.36_linux-ubuntu-6.2.0_64Bit.rar) | [4.11.2](https://images.tuyacn.com/rms-static/f7a99fe0-f067-11ed-8b07-418e300fdfb3-1683856484575.tar.gz?tyName=tuya_ipc_sdk_4.11.2_linux-ubuntu-6.2.0_64Bit.tar.gz)
 Realtek | RTS3903 | mips-linux-uclibc-gcc-4.8.5 | [5.3.36](https://images.tuyacn.com/rms-static/3f779b80-f070-11ed-8b07-418e300fdfb3-1683860041016.rar?tyName=tuya_ipc_sdk_5.3.36_mips-linux-uclibc-gcc-4.8.5.rar) | [4.11.2](https://images.tuyacn.com/rms-static/f7ac10e0-f067-11ed-8585-0943ff8b8030-1683856484590.tar.gz?tyName=tuya_ipc_sdk_4.11.2_mips-linux-uclibc-gcc-4.8.5.tar.gz)
