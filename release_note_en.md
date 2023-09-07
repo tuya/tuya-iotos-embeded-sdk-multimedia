@@ -1,5 +1,14 @@
 # ReleaseNote
 
+## release note for 5.3.38 20230907
+- Fix the issue of QR code configuration failure for the wifi+wired SDK
+- Fix the issue of preview audio only
+- the API "tuya_ipc_direct_connect" return -1 when the device is already actived
+- Fix the issue where video recordings are not uploaded successfully after successful termination of cloud storage.
+- SD card video loop-overwrite trigger threshold increased to 500MB.
+- When there are no cloud storage orders and motion detection is turned off, no image push will be sent.
+- Fixed the issue of intermittent crashes when MQTT is closed
+
 ## release note for 5.3.36 20230512
 - Support upload hardware info
 
