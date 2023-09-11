@@ -1,5 +1,8 @@
 # ReleaseNote
 
+## release note for 5.3.40 20230911
+- Fixing the issue of occasional crashes when coexisting with other network configuration methods during QR code configuration
+
 ## release note for 5.3.38 20230907
 - Fix the issue of QR code configuration failure for the wifi+wired SDK
 - Fix the issue of preview audio only

@@ -1,5 +1,8 @@
 # ReleaseNote
 
+## release note for v5.3.40 20230911
+- 修复直连扫码和其他配网方式共存时，配网概率性崩溃的问题
+
 ## release note for v5.3.38 20230907
 - 修复有线+无线版本SDK，二维码配网失败的问题
 - 修复预览仅音频功能的bug
