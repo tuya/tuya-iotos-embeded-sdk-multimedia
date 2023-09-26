@@ -6,9 +6,9 @@ English | [简体中文](./README.md)
 Multimedia SDK is part of Tuya IoTOS and used to develop embedded devices, such as IP cameras (IPCs), network video recorders (NVRs), digital video recorders (DVRs), doorbells, and floodlights.
 
 ## Download
-* The release of the 6.x series SDK will be unified through the Tuya VS Code Wind IDE plugin. Refer to the documentation. The differences between different series versions are as follows:
+* The release of the 6.x series SDK will be unified through the Tuya VS Code Wind IDE plugin. [Refer to the documentation](https://developer.tuya.com/en/docs/iot-device-dev/TuyaOS-Overview?id=Kbfjtwjcpn1gc). The differences between different series versions are as follows:
 
- Life Cycle | SDK Version Series | SDK Version Series |
+ Life Cycle | Version Series | Description |
 | --- | --- | --- |
 | New TuyaOS version | 6.x | Supports IPV6<br>Supports displaying valid Wi-Fi list in the app during Bluetooth pairing/AP pairing<br>Supports high-speed 8x 16x 32x playback<br>Supports time-lapse recording (delayed photography)<br>Supports streaming media security level<br>Supports AI detection of edge-cloud combined dynamic scheduling algorithm warehouse<br>Upgrades Mbed TLS version to 3.1.0<br>Upgrades CJSON version to 1.7.15<br>Coming soon: Homekit support<br>Coming soon: Supports two-way video calls |
 | Service version | 5.x | New features compared to 4.x series:<br>Bluetooth pairing<br>Local recording supports speed playback, event cover, and recording deletion<br>Subsidiary firmware version reporting<br>Custom voice<br>4G ICCID and other information reporting<br>Device-initiated call cancellation<br>Upgrades LAN communication security level<br>Note: Service version will no longer provide new feature iterations  |
